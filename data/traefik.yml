@@ -1,6 +1,5 @@
 api:
   dashboard: true
-  debug: true
 
 entryPoints:
   http:
